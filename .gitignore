@@ -1,0 +1,80 @@
+# .gitignore for .NET
+
+# Ignore compiled files
+bin/
+obj/
+
+# Ignore all files with .user extension
+*.user
+
+# Ignore all .exe files
+*.exe
+
+# Ignore all .dll files
+*.dll
+
+# Ignore all .pdb files
+*.pdb
+
+# Ignore all .cache files
+*.cache
+
+# Ignore all .config files (except web.config)
+*.config
+!web.config
+
+# Ignore all .suo files
+*.suo
+
+# Ignore all .vssscc files
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual Studio 6 build log
+*.plg
+
+# Visual Studio 6 workspace options file
+*.opt
+
+# Visual Studio LightSwitch build output
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
