@@ -32,3 +32,4 @@ C:\Users\Russell Trick\Desktop\OMMA\tests\Giraffic\MediaInformationSystem\obj\De
 C:\Users\Russell Trick\Desktop\OMMA\tests\Giraffic\MediaInformationSystem\obj\Debug\net8.0\MediaInformationSystem.pdb
 C:\Users\Russell Trick\Desktop\OMMA\tests\Giraffic\MediaInformationSystem\obj\Debug\net8.0\MediaInformationSystem.genruntimeconfig.cache
 C:\Users\Russell Trick\Desktop\OMMA\tests\Giraffic\MediaInformationSystem\obj\Debug\net8.0\ref\MediaInformationSystem.dll
+C:\Users\Russell Trick\Desktop\OMMA\tests\Giraffic\MediaInformationSystem\obj\Debug\net8.0\MediaInformationSystem.sourcelink.json
