@@ -1,0 +1,6 @@
+@MediaInformationSystem_HostAddress = http://localhost:5140
+
+GET {{MediaInformationSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
