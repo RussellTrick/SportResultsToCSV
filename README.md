@@ -1,3 +1,3 @@
-## How to run
-
+## How to install and deploy
+`dotnet restore`
 `dotnet run`
